@@ -1,0 +1,256 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+  }
+  #leftThing {
+    width: 640px;
+    height: 577px;
+    background-color: rgb(55, 52, 43);
+  }
+  #rightThing {
+    width: 640px;
+    background-color: rgb(236, 227, 201);
+    height: 577px;
+  }
+
+  h1{
+   text-align: center;
+   margin-top: -350px;
+   font-size: 128px;
+  }
+
+  h2{
+    text-align: center;
+    margin-top: -280px;
+  }
+
+h3{
+    text-align: center;
+    margin-top: 200px;
+  }
+
+h4{
+  font-size: 32px;
+  margin-top: -6px;
+  }
+
+h5{
+  font-size: 10px;
+  margin-top: -40px;
+  }
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(255, 210, 87);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  /*---------------------page2----------------------------*/
+
+  .upperdiv{
+    width: 680px;
+    height: 163px;
+    background-color: rgb(236, 227, 201);
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 126px;
+  }
+
+  .squarepicture{
+    width: 130px;
+    height: 130px;
+    background-color: rgb(89, 89, 165);
+    float: right;
+    margin-top: -120px;
+  }
+
+  .lowerdiv{
+    width: 680px;
+    height: 163px;
+    background-color: rgb(55, 52, 43);
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 125px;
+  }
+
+  /*--------------------page2---------------------------------*/
+
+  .elements3{
+    padding-left: 150px;
+    padding-top: 145px;
+    padding-right: 150px;
+  }
+
+  #pic21{
+    margin-top: -380px;
+    background-image: url(pics/oreo21.png);
+    background-size: cover;
+  }
+
+  #pic22{
+    margin-top: -250px;
+    background-image: url(pics/oreo22.png);
+    background-size: cover;
+  }
+
+  #pic23{
+    background-image: url(pics/oreo23.png);
+    background-size: cover;
+  }
+
+/*--------------------page2---------------------------------*/
+
+#pic31{
+  margin-top: -380px;
+  background-image: url(pics/Oreo12.jpg);
+  background-size: cover;
+}
+
+#pic32{
+  margin-top: -250px;
+  background-image: url(pics/Oreo12.jpg);
+  background-size: cover;
+}
+
+#pic33{
+  background-image: url(pics/Oreo12.jpg);
+  background-size: cover;
+}
+
+/*--------------------page4---------------------------------*/
+
+#pic41{
+  margin-top: -380px;
+  background-image: url(pics/oreo41.png);
+  background-size: cover;
+}
+
+#pic42{
+  margin-top: -250px;
+  background-image: url(pics/oreo42.png);
+  background-size: cover;
+}
+
+#pic43{
+  background-image: url(pics/oreo43.png);
+  background-size: cover;
+}
+
+
+/*--------------------page9---------------------------------*/
+
+#pic51{
+  margin-top: -380px;
+  background-image: url(pics/oreo51.jpg);
+  background-size: cover;
+}
+
+#pic52{
+  margin-top: -250px;
+  background-image: url(pics/oreo52.jpg);
+  background-size: cover;
+}
+
+#pic53{
+  background-image: url(pics/oreo53.jpg);
+  background-size: cover;
+}
+
+
+/*--------------------page6---------------------------------*/
+
+#pic61{
+  margin-top: -380px;
+  background-image: url(pics/oreo61.jpg);
+  background-size: cover;
+}
+
+#pic62{
+  margin-top: -250px;
+  background-image: url(pics/oreo62.jpg);
+  background-size: cover;
+}
+
+#pic63{
+  background-image: url(pics/oreo63.jpg);
+  background-size: cover;
+}
+
+/*--------------------page9---------------------------------*/
+
+#pic91{
+  margin-top: -380px;
+  background-image: url(pics/oreo23.png);
+  background-size: cover;
+}
+
+#pic92{
+  margin-top: -250px;
+  background-image: url(pics/oreo92.png);
+  background-size: cover;
+}
+
+#pic93{
+  background-image: url(pics/oreo93.png);
+  background-size: cover;
+}
+
+
+
+
+  .blackText{
+    color: rgb(55, 52, 43);
+  }
+
+  .whiteText{
+    color: rgb(236, 227, 201);
+  }
+
+
+  #pic11{
+    background-image: url(pics/oreo11.jpg);
+    background-size: cover;
+  }
+
+  #pic12{
+    background-image: url(pics/oreo12.jpg);
+    background-size: cover;
+  }
+
+  #pic71{
+    background-image: url(pics/oreo71.jpg);
+    background-size: cover;
+  }
+
+  #pic72{
+    background-image: url(pics/Oreo72.jpg);
+    background-size: cover;
+  }
+
+  #pic81{
+    background-image: url(pics/oreo81.png);
+    background-size: cover;
+  }
+
+  #pic82{
+    background-image: url(pics/oreo82.png);
+    background-size: cover;
+  }
+
+  
